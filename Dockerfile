@@ -13,4 +13,4 @@ RUN npm run prepublish
 
 CMD [ "npm", "run", "runServer" ]
 
-EXPOSE 5000
+EXPOSE 5000 
